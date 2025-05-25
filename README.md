@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YourKhandan
+- 👋 Hi, I’m @Debargha_Pramanik
 - 👀 I’m interested in communicating
 - 🌱 I’m currently learning Bachelors of Computer Applications 
 - 💞️ I’m looking to collaborate on LinkedIn, Facebook, WhatsApp, leet code
